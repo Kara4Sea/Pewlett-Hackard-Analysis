@@ -7,7 +7,8 @@ The purpose of this analysis is to understand the impact the silver tsunami will
 ## Results
 
 * Retirment Title - Details all employees with upcoming retirement dates who are still with the company and their current titles.
-* List consolidating employee count per title of all positions up for retirement. This allows us to see how many at each position will need to be backfilled during the silver tsunami.
+* Unique Titles - Most current list of employees up for retirement with most recent title.
+* Retiring Titles - List consolidating employee count per title of all positions up for retirement. This allows us to see how many at each position will need to be backfilled during the silver tsunami.
     * Senior Engineer - 25916	positions to open
     * Senior Staff - 24926	positions to open
     * Engineer - 9285	positions to open
@@ -15,6 +16,7 @@ The purpose of this analysis is to understand the impact the silver tsunami will
     * Technique Leader - 3603	positions to open
     * Assistant Engineer - 1090	positions to open
     * Manager - 2	positions to open
+* Mentorship Eligibility - 
 
 
 
