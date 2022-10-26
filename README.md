@@ -21,31 +21,31 @@ The purpose of this analysis is to understand the impact the silver tsunami will
 ## Summary
 
 When the silver tsunami is complete, we can anticipate that a total of 72,458 positions will need to be filled once complete. To plan for the first year the silver tsunami rolls out, I pulled information on all current employees born in 1952 as they will be the first to be elligble for retirement. Within the first year of the silver tsunami, the following position counts will need to be filled:
-    * Senior Engineer - 6743	positions to open
-    * Senior Staff - 6332	positions to open
-    * Engineer - 2377	positions to open
-    * Staff - 1901	positions to open
-    * Technique Leader - 895	positions to open
-    * Assistant Engineer - 288	positions to open
-    * Manager - 1	position to open
+* Senior Engineer - 6743	positions to open
+* Senior Staff - 6332	positions to open
+* Engineer - 2377	positions to open
+* Staff - 1901	positions to open
+* Technique Leader - 895	positions to open
+* Assistant Engineer - 288	positions to open
+* Manager - 1	position to open
 
 It will be a difficult task to train for all positions opening in the first wave of the silver tsunami. Pewlett-Hackard has 1464 employees who can serve as mentors to take on mentoring the next generation of PH employees. They are broken out into position as follows:
-    * Senior Engineer - 155 mentors available
-    * Senior Staff - 543 mentors available
-    * Engineer - 466 mentors available
-    * Staff - 151 mentors available
-    * Technique Leader - 72 mentors available
-    * Assistant Engineer - 77 mentors available
-    * Manager - 0 mentors available
+* Senior Engineer - 155 mentors available
+* Senior Staff - 543 mentors available
+* Engineer - 466 mentors available
+* Staff - 151 mentors available
+* Technique Leader - 72 mentors available
+* Assistant Engineer - 77 mentors available
+* Manager - 0 mentors available
     
  There are far less mentors available than positions to be trained for. The ratio of mentor to trainee are as follows:
-    * Senior Engineer - 1:44
-    * Senior Staff - 1:12
-    * Engineer - 1:6
-    * Staff - 1:13
-    * Technique Leader - 1:13
-    * Assistant Engineer - 1:4
-    * Manager - 0 mentors available
+* Senior Engineer - 1:44
+* Senior Staff - 1:12
+* Engineer - 1:6
+* Staff - 1:13
+* Technique Leader - 1:13
+* Assistant Engineer - 1:4
+* Manager - 0 mentors available
     
  As indicated above, this presents the greated risk for training for the role of Senior Engineer as the ratio of mentor to trainees is 1 to 44. A good way to resolve this may be to review current promotable employees working as Engineers, and jumping in to train and promote them before the silver tsunami starts to spread the training over a longer period of time.
  
